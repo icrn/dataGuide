@@ -8,6 +8,7 @@
 - [Hadoop](#hadoop)
 - [Hive](#hive)
 - [Kafka](#kafka)
+- [大数据算法与架构](#大数据算法与架构)
 
 ## Hbase
 
