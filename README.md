@@ -18,6 +18,11 @@
   待续……
 
 ## Flink
+  * flink入门学习参考资料
+      * [Apache Flink Training
+](https://training.ververica.com)
+    * [Flink 官网](https://flink.apache.org)
+
   待续……
 
 ## Hadoop
